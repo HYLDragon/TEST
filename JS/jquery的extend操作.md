@@ -78,3 +78,7 @@
           console.log(sy);//Object { add: sy.add(), min: sy.min() }
           sy.min();
       ```
+     6.各个大公司使用的免费库
+        http://caibaojian.com/cdn-js.html
+        前端开发规范文档
+        http://caibaojian.com/web-fontend-doc.html
