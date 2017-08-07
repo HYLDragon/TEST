@@ -15,6 +15,8 @@
 
 #### jquery
 - [1.jquery的extend操作](js/jquery的extend操作.md)
+- [2.setTimeout操作](js/setTimeout计时器.md)
+- [3.promise](js/promise.md)
 
 
 
