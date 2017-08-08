@@ -12,11 +12,12 @@
 - [8.IO操作](IO操作.md)(com.zx.mes.io)
 ### JS
 #### js
-
+- [1.promise](js/promise.md)
 #### jquery
 - [1.jquery的extend操作](js/jquery的extend操作.md)
 - [2.setTimeout操作](js/setTimeout计时器.md)
-- [3.promise](js/promise.md)
+- [3.jquery.queue](js/jquery.queue.md)
+
 
 
 
