@@ -2,6 +2,9 @@
 
 ## 目录
 ### java
+#### java基础
+- [1.内部类](内部类.md)
+#### java提高
 - [1.idae webapp快速搭建](测试搭建.md)
 - [2.Proxy](动态代理测试.md)(com.zx.mes.proxy)
 - [3.Properties](properties类的使用.md)(com.zx.mes.properties)
@@ -17,6 +20,8 @@
 - [1.jquery的extend操作](js/jquery的extend操作.md)
 - [2.setTimeout操作](js/setTimeout计时器.md)
 - [3.jquery.queue](js/jquery.queue.md)
+- [4.jquery.deferred](js/jquery.deferred.md)
+
 
 
 
