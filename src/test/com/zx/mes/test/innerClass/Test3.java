@@ -1,4 +1,4 @@
-package innerClass;
+package com.zx.mes.test.innerClass;
 
 import com.alibaba.fastjson.JSON;
 import com.zx.mes.proxy.dao.IDao;

@@ -1,4 +1,4 @@
-package com.zx.mes.properties;
+package com.zx.mes.test.properties;
 
 import com.alibaba.fastjson.JSON;
 import org.apache.log4j.Logger;

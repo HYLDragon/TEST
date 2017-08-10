@@ -1,4 +1,4 @@
-package com.zx.mes.io;
+package com.zx.mes.test.io;
 
 import com.alibaba.fastjson.JSON;
 import org.apache.log4j.Logger;

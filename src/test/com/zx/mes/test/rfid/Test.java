@@ -1,4 +1,4 @@
-package com.zx.mes.rfid;
+package com.zx.mes.test.rfid;
 
 import com.alibaba.fastjson.JSON;
 import org.apache.log4j.Logger;
@@ -18,7 +18,7 @@ public class Test {
         logger.info(JSON.toJSONStringWithDateFormat("test","yyyy-MM-dd HH:mm:ss"));
     }
 
-    @org.junit.Test
+    //@org.junit.Block
     public void test2(){
 
         try {

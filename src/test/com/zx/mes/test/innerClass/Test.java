@@ -1,4 +1,4 @@
-package innerClass;
+package com.zx.mes.test.innerClass;
 
 import com.alibaba.fastjson.JSON;
 import org.apache.log4j.Logger;

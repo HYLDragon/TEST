@@ -1,4 +1,4 @@
-package innerClass;
+package com.zx.mes.test.innerClass;
 
 /**
  * Created by Administrator on 2017/8/9.

@@ -1,4 +1,4 @@
-package com.zx.mes.rfid;
+package com.zx.mes.test.rfid;
 
 /**
  * Created by Administrator on 2017/7/7.

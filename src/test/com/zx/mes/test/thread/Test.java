@@ -1,4 +1,4 @@
-package com.zx.mes.thread;
+package com.zx.mes.test.thread;
 
 import com.alibaba.fastjson.JSON;
 import org.apache.log4j.Logger;
@@ -91,7 +91,7 @@ public class Test {
     }
 
     ////synchronized测试(失败)
-    //@org.junit.Test
+    //@org.junit.Block
     //public void test8(){
     //    Example5 example5=new Example5(new Object());
     //    Thread thread=new Thread(example5);
@@ -102,7 +102,7 @@ public class Test {
     //}
     //
     ////synchronized测试(失败)
-    //@org.junit.Test
+    //@org.junit.Block
     //public void test9() throws InterruptedException {
     //    Object object=new Object();
     //    Thread thread=new Thread(new Example5(object));

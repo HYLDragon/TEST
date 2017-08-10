@@ -1,4 +1,4 @@
-package com.zx.mes.thread;
+package com.zx.mes.test.thread;
 
 
 import org.apache.log4j.Logger;
