@@ -19,12 +19,12 @@
 - [9.序列化实现对象拷贝](https://github.com/HYLDragon/TEST/blob/master/Java/%E5%BA%8F%E5%88%97%E5%8C%96%E5%AE%9E%E7%8E%B0%E5%AF%B9%E8%B1%A1%E6%8B%B7%E8%B4%9D.md)(com.zx.mes.copy)
 ### JS
 #### js
-- [1.promise](js/promise.md)
+- [1.promise](https://github.com/HYLDragon/TEST/blob/master/JS/promise.md)
 #### jquery
-- [1.jquery的extend操作](https://github.com/HYLDragon/TEST/blob/master/js/jquery的extend操作.md)
-- [2.setTimeout操作](https://github.com/HYLDragon/TEST/blob/master/js/setTimeout计时器.md)
-- [3.jquery.queue](https://github.com/HYLDragon/TEST/blob/master/js/jquery.queue.md)
-- [4.jquery.deferred](https://github.com/HYLDragon/TEST/blob/master/js/jquery.deferred.md)
+- [1.jquery的extend操作](https://github.com/HYLDragon/TEST/blob/master/JS/jquery的extend操作.md)
+- [2.setTimeout操作](https://github.com/HYLDragon/TEST/blob/master/JS/setTimeout计时器.md)
+- [3.jquery.queue](https://github.com/HYLDragon/TEST/blob/master/JS/jquery.queue.md)
+- [4.jquery.deferred](https://github.com/HYLDragon/TEST/blob/master/JS/jquery.deferred.md)
 
 
 
