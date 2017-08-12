@@ -3,9 +3,9 @@
 ## 目录
 ### java
 #### java基础
-- [1.内部类](内部类.md)
-- [2.代码块及其在对象生成过程中的生成顺序](代码块及其在对象生成过程中的生成顺序.md)
-- [3.自定义异常及其它注意点](自定义异常及其它注意点.md)
+- [1.内部类](https://github.com/HYLDragon/TEST/blob/master/Java/内部类.md)
+- [2.代码块及其在对象生成过程中的生成顺序](https://github.com/HYLDragon/TEST/blob/master/Java/代码块及其在对象生成过程中的生成顺序.md)
+- [3.自定义异常及其它注意点](https://github.com/HYLDragon/TEST/blob/master/Java/自定义异常及其它注意点.md)
 
 #### java提高
 - [1.idae webapp快速搭建](测试搭建.md)
@@ -21,10 +21,10 @@
 #### js
 - [1.promise](js/promise.md)
 #### jquery
-- [1.jquery的extend操作](js/jquery的extend操作.md)
-- [2.setTimeout操作](js/setTimeout计时器.md)
-- [3.jquery.queue](js/jquery.queue.md)
-- [4.jquery.deferred](js/jquery.deferred.md)
+- [1.jquery的extend操作](https://github.com/HYLDragon/TEST/blob/master/js/jquery的extend操作.md)
+- [2.setTimeout操作](https://github.com/HYLDragon/TEST/blob/master/js/setTimeout计时器.md)
+- [3.jquery.queue](https://github.com/HYLDragon/TEST/blob/master/js/jquery.queue.md)
+- [4.jquery.deferred](https://github.com/HYLDragon/TEST/blob/master/js/jquery.deferred.md)
 
 
 
