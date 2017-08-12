@@ -16,7 +16,7 @@
 - [6.并发](高并发.md)(com.zx.mes.test.thread)
 - [7.文件操作](文件操作.md)(com.zx.mes.test.io)
 - [8.IO操作](IO操作.md)(com.zx.mes.test.io)
-- [9.序列化实现对象拷贝](序列化实现对象拷贝.md)(com.zx.mes.copy)
+- [9.序列化实现对象拷贝](/java/序列化实现对象拷贝.md)(com.zx.mes.copy)
 ### JS
 #### js
 - [1.promise](js/promise.md)
