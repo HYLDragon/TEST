@@ -18,16 +18,16 @@ jQuery.fn = jQuery.prototype = {
     -3.1为jQuery类添加类方法，可以理解为添加静态方法。如：         
    ```javascript
    $(function(){        
-              $.extend({       
-                  add:function(){      
-                      alert("加法方法");       
-                  },       
-                  min:function(){      
-                      alert("取最小值");       
-                  }        
-              });      
-              $.add();     
-          });      
+      $.extend({       
+          add:function(){      
+              alert("加法方法");       
+          },       
+          min:function(){      
+              alert("取最小值");       
+          }        
+      });      
+      $.add();     
+  });      
    ```
 -3.2 Object Query.extend( target, object1, [objectN])用一个或多个其他对象来扩展一个对象，返回被扩展的对象      
 ```javascript
