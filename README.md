@@ -18,6 +18,7 @@
 - [8.IO操作](IO操作.md)(com.zx.mes.test.io)
 - [9.序列化实现对象拷贝](https://github.com/HYLDragon/TEST/blob/master/Java/%E5%BA%8F%E5%88%97%E5%8C%96%E5%AE%9E%E7%8E%B0%E5%AF%B9%E8%B1%A1%E6%8B%B7%E8%B4%9D.md)(com.zx.mes.copy)
 - [10.使用idea创建一个webapp项目](https://github.com/HYLDragon/TEST/blob/master/Java/使用idea创建一个webapp项目.md)
+- [11.idea配置多个jdk](https://github.com/HYLDragon/TEST/blob/master/Java/idea配置多个jdk.md)
 
 ### JS
 #### js
